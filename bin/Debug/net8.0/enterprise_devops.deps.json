@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "enterprise_devops/1.0.0": {
+        "runtime": {
+          "enterprise_devops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "enterprise_devops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
