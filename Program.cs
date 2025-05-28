@@ -1,4 +1,4 @@
-// change for new branch
+// merge request
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
