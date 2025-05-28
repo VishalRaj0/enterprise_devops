@@ -1,4 +1,4 @@
-// merge request 2
+// merge request 3
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
